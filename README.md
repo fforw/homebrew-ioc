@@ -1,5 +1,5 @@
-Very basic homebrew IoC example for /r/programming
-==================================================
+Very basic homebrew "Inversion of Control" example for /r/programming
+=====================================================================
 
 This shows how to do a most simple form of IoC without any framework.
 
